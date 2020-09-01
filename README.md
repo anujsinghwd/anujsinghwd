@@ -25,6 +25,6 @@
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 
 
-![anujsinghwd's GitHub stats](https://github-readme-stats.vercel.app/api?username=anujsinghwd&show_icons=true&hide=["issues"]&theme=radical)
+![anujsinghwd's GitHub stats](https://github-readme-stats.vercel.app/api?username=anujsinghwd&show_icons=true&hide=["issues"]&theme=radical&count_private=true)
 
 [![HitCount](http://hits.dwyl.com/anujsinghwd/anujsinghwd.svg)](http://hits.dwyl.com/anujsinghwd/anujsinghwd)
