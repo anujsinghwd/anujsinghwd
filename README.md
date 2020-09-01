@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on various web/app projects using React, Node.js.
 - 🌱 I’m currently learning Postgres, Snowflake & Python.
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on JavaScript.
 - 🤔 I’m looking for help with Typescript Projects.
 - 💬 Ask me about anything, I'm happy to help!
 
