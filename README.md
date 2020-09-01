@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on various web/app projects using React, Node.js.
 - 🌱 I’m currently learning Postgres, Snowflake & Python.
 - 👯 I’m looking to collaborate on JavaScript.
