@@ -26,7 +26,7 @@
 
 
 ![anujsinghwd's GitHub stats](https://github-readme-stats.vercel.app/api?username=anujsinghwd&show_icons=true&hide=["issues"]&theme=radical&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anujsinghwd&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anujsinghwd&layout=compact&theme=radical)
 
 
 [![HitCount](http://hits.dwyl.com/anujsinghwd/anujsinghwd.svg)](http://hits.dwyl.com/anujsinghwd/anujsinghwd)
