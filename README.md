@@ -24,6 +24,8 @@
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 
+###
+<code><img height="45" src="https://raw.githubusercontent.com/anujsinghwd/anujsinghwd/master/sjurlyypuqqevibcqk9m.webp"></code>
 
 ![anujsinghwd's GitHub stats](https://github-readme-stats.vercel.app/api?username=anujsinghwd&show_icons=true&hide=["issues"]&theme=radical&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anujsinghwd&layout=compact&theme=radical)
